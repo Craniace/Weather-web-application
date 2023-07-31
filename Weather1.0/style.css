@@ -1,0 +1,28 @@
+.display-6{
+    color: aliceblue;
+    text-decoration-color: aliceblue;
+    
+   
+
+}
+.h1{
+    text-align: center;
+    color: aliceblue;
+    font-weight: bolder;
+
+}
+.my-4 {
+    color: white;
+}
+.card {
+    max-width: 250px; /* Adjust the width to your desired size */
+    justify-content: center;
+    
+
+}
+.CORD{
+    padding-left: 1cm;
+    
+    
+}
+
